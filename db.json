@@ -1,0 +1,14 @@
+{
+  "feedbacks": [
+    {
+      "text": "Adding a new feedback",
+      "rating": 7,
+      "id": 4
+    },
+    {
+      "text": "New item comingg EDITED",
+      "rating": 6,
+      "id": 5
+    }
+  ]
+}

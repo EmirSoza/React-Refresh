@@ -1,6 +1,6 @@
 import React, { useState, useContext, useEffect } from "react";
-import Button from "../shared/Button";
-import Card from "../shared/Card";
+import Button from "./shared/Button";
+import Card from "./shared/Card";
 import RatingSelect from "./RatingSelect";
 import FeedbackContext from "../context/FeedbackContext";
 
